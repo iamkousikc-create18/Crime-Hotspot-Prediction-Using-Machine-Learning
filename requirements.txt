@@ -7,4 +7,4 @@ scikit-learn
 xgboost
 folium
 streamlit
-plotly>=5.24+
+plotly>=5.24.0
